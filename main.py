@@ -5,3 +5,4 @@ if __name__ == "__main__":
 
     if login_berhasil:
         interface_terminal.jalankan_aplikasi()
+    

@@ -1,4 +1,3 @@
-products = []
 
 # database.py
 
